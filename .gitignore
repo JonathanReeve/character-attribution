@@ -2,3 +2,4 @@ waves/waves-tei.xml
 gatsby/gatsby.xml
 */.ipynb_checkpoints/
 .ipynb_checkpoints/
+__pycache__/
