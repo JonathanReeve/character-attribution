@@ -1,5 +1,5 @@
 # character-attribution
-Probabilistic attribution of character voices in fiction. [Read the paper here.](https://github.com/JonathanReeve/character-attribution/blob/master/paper/character-voice.pdf)
+Probabilistic attribution of character voices in fiction, originally a final project for David Blei’s Fall 2016 course, [Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/index.html) at Columbia University. [Read the paper here.](https://github.com/JonathanReeve/character-attribution/blob/master/paper/character-voice.pdf)
 
 #Contents
  - /charts - figures used in the paper
