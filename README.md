@@ -1,5 +1,5 @@
 # character-attribution
-Probabilistic attribution of character voices in fiction. 
+Probabilistic attribution of character voices in fiction. [Read the paper here.](https://github.com/JonathanReeve/character-attribution/blob/master/paper/character-voice.pdf)
 
 #Contents
  - /charts - figures used in the paper
